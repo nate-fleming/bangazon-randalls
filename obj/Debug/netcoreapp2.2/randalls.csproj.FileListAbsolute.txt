@@ -1,0 +1,11 @@
+/Users/natefleming/workspace/csharp-exercises/randalls/bin/Debug/netcoreapp2.2/randalls.deps.json
+/Users/natefleming/workspace/csharp-exercises/randalls/bin/Debug/netcoreapp2.2/randalls.runtimeconfig.json
+/Users/natefleming/workspace/csharp-exercises/randalls/bin/Debug/netcoreapp2.2/randalls.runtimeconfig.dev.json
+/Users/natefleming/workspace/csharp-exercises/randalls/bin/Debug/netcoreapp2.2/randalls.dll
+/Users/natefleming/workspace/csharp-exercises/randalls/bin/Debug/netcoreapp2.2/randalls.pdb
+/Users/natefleming/workspace/csharp-exercises/randalls/obj/Debug/netcoreapp2.2/randalls.csprojAssemblyReference.cache
+/Users/natefleming/workspace/csharp-exercises/randalls/obj/Debug/netcoreapp2.2/randalls.csproj.CoreCompileInputs.cache
+/Users/natefleming/workspace/csharp-exercises/randalls/obj/Debug/netcoreapp2.2/randalls.AssemblyInfoInputs.cache
+/Users/natefleming/workspace/csharp-exercises/randalls/obj/Debug/netcoreapp2.2/randalls.AssemblyInfo.cs
+/Users/natefleming/workspace/csharp-exercises/randalls/obj/Debug/netcoreapp2.2/randalls.dll
+/Users/natefleming/workspace/csharp-exercises/randalls/obj/Debug/netcoreapp2.2/randalls.pdb
